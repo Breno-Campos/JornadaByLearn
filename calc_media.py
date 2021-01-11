@@ -11,4 +11,5 @@ def verificar_aprovacao(media):
   else:
     print('Aluno Reprovado!')
 
-calcular_media([10, 7, 8, 7])
+alguem = [10, 7, 8, 7]
+calcular_media(alguem)
